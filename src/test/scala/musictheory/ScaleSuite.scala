@@ -68,13 +68,4 @@ class ScaleSuite extends FunSuite {
   test("B# Major = B#, C##, D##, E#, F##, G##, A##, B#") {
     assert(Scale("B#") == List("B#", "C##", "D##", "E#", "F##", "G##", "A##", "B#"))
   }
-
-
-
-
-
-
-
-
-
 }
